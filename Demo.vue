@@ -1,5 +1,8 @@
 <template lang="html">
-    <v-charts :x-data="xData" :y-data="yData" :z-type="zType"></v-charts>
+    <v-charts
+    :x-data="xData"
+    :y-data="yData"
+    :z-type="zType"></v-charts>
 </template>
 
 <script>
@@ -13,8 +16,7 @@ export default {
         }
     },
     computed: {},
-    ready() {},
-    attached() {},
+    create() {},
     methods: {},
     components: {
         'v-charts': Charts

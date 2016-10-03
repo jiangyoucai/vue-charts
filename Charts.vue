@@ -22,10 +22,9 @@ export default {
         }
     },
     computed: {},
-    ready() {
+    created() {
         this.createCharts()
     },
-    attached() {},
     methods: {
         createCharts() {
             const container = document.getElementById('charts')
@@ -44,9 +43,7 @@ export default {
             })
         }
     },
-    components: {
-
-    }
+    components: {}
 }
 </script>
 

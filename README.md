@@ -22,8 +22,7 @@ import
             }
         },
         computed: {},
-        ready() {},
-        attached() {},
+        created() {},
         methods: {},
         components: {
             'v-charts': Charts
