@@ -1,7 +1,7 @@
 {
   "name": "tt-vue-charts",
-  "version": "1.0.0",
-  "description": "a charts component base on echarts #### install npm",
+  "version": "1.0.1",
+  "description": "a charts component base on echarts",
   "main": "./src/Charts.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
