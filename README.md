@@ -1,5 +1,14 @@
 # vue-charts
-charts for vue ,base on echarts
+
+a charts component base on echarts
+#### install
+npm
+
+    npm install tt-vue-charts
+
+yarn
+
+    yarn add tt-vue-charts
 
 #### how to use
 
@@ -12,7 +21,7 @@ template
 
 import
 
-    import Charts from './Charts'
+    import Charts from 'tt-vue-charts'
     export default {
         data() {
             return {

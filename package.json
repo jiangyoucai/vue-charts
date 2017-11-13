@@ -1,0 +1,24 @@
+{
+  "name": "tt-vue-charts",
+  "version": "1.0.0",
+  "description": "a charts component base on echarts #### install npm",
+  "main": "./src/Charts.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangyoucai/vue-charts.git"
+  },
+  "keywords": [
+    "vue-charts",
+    "vue",
+    "charts"
+  ],
+  "author": "https://github.com/jiangyoucai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangyoucai/vue-charts/issues"
+  },
+  "homepage": "https://github.com/jiangyoucai/vue-charts#readme"
+}
